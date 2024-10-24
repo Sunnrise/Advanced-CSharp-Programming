@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IObservable_and_IObserver",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureString", "SecureString\SecureString.csproj", "{6EE12682-C5B3-4187-B3D9-65C20CFD3F9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLog_EventViewer", "EventLog_EventViewer\EventLog_EventViewer.csproj", "{E9C765B0-95B4-426B-91BA-AFE32DC61663}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{6EE12682-C5B3-4187-B3D9-65C20CFD3F9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EE12682-C5B3-4187-B3D9-65C20CFD3F9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EE12682-C5B3-4187-B3D9-65C20CFD3F9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C765B0-95B4-426B-91BA-AFE32DC61663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C765B0-95B4-426B-91BA-AFE32DC61663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C765B0-95B4-426B-91BA-AFE32DC61663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C765B0-95B4-426B-91BA-AFE32DC61663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
