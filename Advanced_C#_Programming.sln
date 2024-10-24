@@ -39,11 +39,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflections", "Reflection\R
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionsClassLibrary", "Reflection\ClassLibrary1\ReflectionsClassLibrary.csproj", "{5D144592-EDCC-4E23-810B-CD029EEDED74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IObservable_and_IObserver", "IObservable_and_IObserver\IObservable_and_IObserver.csproj", "{6ABB903F-DB6F-4EA0-811D-2179A8608ADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IObservable_and_IObserver", "IObservable_and_IObserver\IObservable_and_IObserver.csproj", "{6ABB903F-DB6F-4EA0-811D-2179A8608ADE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureString", "SecureString\SecureString.csproj", "{6EE12682-C5B3-4187-B3D9-65C20CFD3F9D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecureString", "SecureString\SecureString.csproj", "{6EE12682-C5B3-4187-B3D9-65C20CFD3F9D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLog_EventViewer", "EventLog_EventViewer\EventLog_EventViewer.csproj", "{E9C765B0-95B4-426B-91BA-AFE32DC61663}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventLog_EventViewer", "EventLog_EventViewer\EventLog_EventViewer.csproj", "{E9C765B0-95B4-426B-91BA-AFE32DC61663}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{5FEE3A5C-E808-45AA-9D11-C72D85528C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebuggerDisplay", "DebuggerDisplay\DebuggerDisplay.csproj", "{747D78CB-89C9-4C4A-AA0A-F5F33572F86B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +139,14 @@ Global
 		{E9C765B0-95B4-426B-91BA-AFE32DC61663}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9C765B0-95B4-426B-91BA-AFE32DC61663}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9C765B0-95B4-426B-91BA-AFE32DC61663}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FEE3A5C-E808-45AA-9D11-C72D85528C1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEE3A5C-E808-45AA-9D11-C72D85528C1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEE3A5C-E808-45AA-9D11-C72D85528C1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEE3A5C-E808-45AA-9D11-C72D85528C1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{747D78CB-89C9-4C4A-AA0A-F5F33572F86B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{747D78CB-89C9-4C4A-AA0A-F5F33572F86B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{747D78CB-89C9-4C4A-AA0A-F5F33572F86B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{747D78CB-89C9-4C4A-AA0A-F5F33572F86B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

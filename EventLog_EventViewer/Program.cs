@@ -13,4 +13,4 @@ string logMessage = $"Event Log Message: {DateTime.Now}";
 Console.WriteLine(logMessage);
 EventLog.WriteEntry(eventLogSource, logMessage, EventLogEntryType.Information);
 Console.WriteLine("Log has been written");
-Process.Start("eventvwr.exe");
+Process.Start("eventvwr.exe"); 
