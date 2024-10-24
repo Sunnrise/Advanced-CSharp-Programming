@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration_and_YieldKeyword"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollectionInitializers", "CustomCollectionInitializers\CustomCollectionInitializers.csproj", "{51675324-102F-417D-A5C9-5A05ECCCE579}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{51675324-102F-417D-A5C9-5A05ECCCE579}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{51675324-102F-417D-A5C9-5A05ECCCE579}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{51675324-102F-417D-A5C9-5A05ECCCE579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
