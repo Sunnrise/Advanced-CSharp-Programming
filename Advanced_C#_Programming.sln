@@ -29,15 +29,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiersClassLibrary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpecialDefinedInterfaces", "SpecialDefinedInterfaces\SpecialDefinedInterfaces.csproj", "{0921B30E-72E5-4F55-8BA3-B8720A4A648E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteration_and_YieldKeyword", "Iteration_and_YieldKeyword\Iteration_and_YieldKeyword.csproj", "{CC9D74DF-DEEC-401B-B8F6-BC3A48772F87}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Iteration_and_YieldKeyword", "Iteration_and_YieldKeyword\Iteration_and_YieldKeyword.csproj", "{CC9D74DF-DEEC-401B-B8F6-BC3A48772F87}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollectionInitializers", "CustomCollectionInitializers\CustomCollectionInitializers.csproj", "{51675324-102F-417D-A5C9-5A05ECCCE579}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCollectionInitializers", "CustomCollectionInitializers\CustomCollectionInitializers.csproj", "{51675324-102F-417D-A5C9-5A05ECCCE579}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Attributes", "Attributes\Attributes.csproj", "{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflections", "Reflection\Reflections.csproj", "{C4B3946D-CF16-4B02-A30C-06BA46F5CB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reflections", "Reflection\Reflections.csproj", "{C4B3946D-CF16-4B02-A30C-06BA46F5CB62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionsClassLibrary", "Reflection\ClassLibrary1\ReflectionsClassLibrary.csproj", "{5D144592-EDCC-4E23-810B-CD029EEDED74}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReflectionsClassLibrary", "Reflection\ClassLibrary1\ReflectionsClassLibrary.csproj", "{5D144592-EDCC-4E23-810B-CD029EEDED74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IObservable_and_IObserver", "IObservable_and_IObserver\IObservable_and_IObserver.csproj", "{6ABB903F-DB6F-4EA0-811D-2179A8608ADE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{5D144592-EDCC-4E23-810B-CD029EEDED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D144592-EDCC-4E23-810B-CD029EEDED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D144592-EDCC-4E23-810B-CD029EEDED74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ABB903F-DB6F-4EA0-811D-2179A8608ADE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ABB903F-DB6F-4EA0-811D-2179A8608ADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ABB903F-DB6F-4EA0-811D-2179A8608ADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ABB903F-DB6F-4EA0-811D-2179A8608ADE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
