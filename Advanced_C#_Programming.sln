@@ -35,6 +35,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollectionInitializer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Attributes", "Attributes\Attributes.csproj", "{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflections", "Reflection\Reflections.csproj", "{C4B3946D-CF16-4B02-A30C-06BA46F5CB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionsClassLibrary", "Reflection\ClassLibrary1\ReflectionsClassLibrary.csproj", "{5D144592-EDCC-4E23-810B-CD029EEDED74}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +109,14 @@ Global
 		{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6D40A6A-E5B2-4ACC-B8B0-B857EB49B029}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B3946D-CF16-4B02-A30C-06BA46F5CB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B3946D-CF16-4B02-A30C-06BA46F5CB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B3946D-CF16-4B02-A30C-06BA46F5CB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B3946D-CF16-4B02-A30C-06BA46F5CB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D144592-EDCC-4E23-810B-CD029EEDED74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D144592-EDCC-4E23-810B-CD029EEDED74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D144592-EDCC-4E23-810B-CD029EEDED74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D144592-EDCC-4E23-810B-CD029EEDED74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
